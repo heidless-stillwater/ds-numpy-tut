@@ -22,6 +22,13 @@ logging.basicConfig(
     level=logging.INFO,
     datefmt='%Y-%m-%d %H:%M:%S')
     
+def log_this(arr, msg):
+    # logger.info(f"in {log_this.__name__}")
+    # arr = np.arange(0,20)
+    # msg = "TEST MSG"
+    logger.info(f"{msg}: {arr}")
+    # logger.info(f"arr.shape: {arr.shape}")
+    
 def intro():
     logger.info(f"in {intro.__name__}")
 
@@ -173,13 +180,6 @@ def copyview():
     logger.info(f"updated np1: {np1}")
     logger.info(f"updated np2: {np2}")
 
-def log_this(arr, msg):
-    # logger.info(f"in {log_this.__name__}")
-    # arr = np.arange(0,20)
-    # msg = "TEST MSG"
-    logger.info(f"{msg}: {arr}")
-    # logger.info(f"arr.shape: {arr.shape}")
-    
 def shape():
     # logger.info(f"in {shape.__name__}")
     
@@ -277,16 +277,60 @@ def sort():
 
     flatten_0 = np4.reshape(-1)
     log_this(flatten_0, 'flatten_0')
-   
-     
+
+def search():
+    logger.info(f"in {search.__name__}")
     
+    # search
+    np1 = np.array([0,3,1,2,3,4,5,6,7,8,3,9])
+    x = np.where(np1 == 3)
+    log_this(x[0], 'x')
+    
+    y = np.where(np1 % 2 == 0)
+    log_this(y[0], 'y')
+
+def filter():
+    logger.info(f"in {filter.__name__}")
+
+    np1 = np.array([0,1,2,3,4,5,6,7,8,9])
+    
+    # x = [True,True,False,False,False,False,False,False,False,False, ]
+    # log_this(np1, 'np1')
+    # log_this(np1[x], "np1: filtered")
+    
+    # filtered = []
+    # for thing in np1:
+    #     if thing % 2 == 0:
+    #         print("true")
+    #         filtered.append(True)
+    #     else:
+    #         print("false")
+    #         filtered.append(False)
+
+    # log_this(np1, "np1")
+    # log_this(filtered, "filtered mask")
+    # log_this(np1[filtered], "filtered mask")
+           
+    # shortcut!
+    filtered = np1 % 2 == 0
+    
+    log_this(np1, "np1")
+    log_this(filtered, "filtered mask")
+    log_this(np1[filtered], "filtered mask")
+                   
+                   
+
+
+
 def main():
     logger.info('--------') 
     # loggers.info('Calling nump tutorials')
     # copyview()
     # shape()
     # iterate()
-    sort()
+    # sort()
+    # search()
+    filter()
     
 if __name__ == '__main__':
     main()

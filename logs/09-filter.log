@@ -1,0 +1,47 @@
+2024-11-17 18:29:34 INFO     --------
+2024-11-17 18:29:34 INFO     in filter
+2024-11-17 18:29:40 INFO     --------
+2024-11-17 18:29:40 INFO     in filter
+2024-11-17 18:30:03 INFO     --------
+2024-11-17 18:30:03 INFO     in filter
+2024-11-17 18:34:39 INFO     --------
+2024-11-17 18:34:39 INFO     in filter
+2024-11-17 18:34:39 INFO     np1: [0 1 2 3 4 5 6 7 8 9]
+2024-11-17 18:34:39 INFO     np1: filtered: [0 1]
+2024-11-17 18:39:32 INFO     --------
+2024-11-17 18:39:32 INFO     in filter
+2024-11-17 18:39:32 INFO     filtered mask: []
+2024-11-17 18:39:55 INFO     --------
+2024-11-17 18:39:55 INFO     in filter
+2024-11-17 18:39:55 INFO     filtered mask: []
+2024-11-17 18:41:08 INFO     --------
+2024-11-17 18:41:08 INFO     in filter
+2024-11-17 18:41:08 INFO     filtered mask: []
+2024-11-17 18:41:24 INFO     --------
+2024-11-17 18:41:24 INFO     in filter
+2024-11-17 18:41:24 INFO     filtered mask: []
+2024-11-17 18:42:09 INFO     --------
+2024-11-17 18:42:09 INFO     in filter
+2024-11-17 18:42:36 INFO     --------
+2024-11-17 18:42:36 INFO     in filter
+2024-11-17 18:42:36 INFO     filtered mask: []
+2024-11-17 18:44:02 INFO     --------
+2024-11-17 18:44:02 INFO     in filter
+2024-11-17 18:44:02 INFO     np1: [0 1 2 3 4 5 6 7 8 9]
+2024-11-17 18:44:02 INFO     filtered mask: []
+2024-11-17 18:45:15 INFO     --------
+2024-11-17 18:45:15 INFO     in filter
+2024-11-17 18:45:57 INFO     --------
+2024-11-17 18:45:57 INFO     in filter
+2024-11-17 18:45:57 INFO     np1: [0 1 2 3 4 5 6 7 8 9]
+2024-11-17 18:45:57 INFO     filtered mask: [True, False, True, False, True, False, True, False, True, False]
+2024-11-17 18:46:15 INFO     --------
+2024-11-17 18:46:15 INFO     in filter
+2024-11-17 18:46:15 INFO     np1: [0 1 2 3 4 5 6 7 8 9]
+2024-11-17 18:46:15 INFO     filtered mask: [True, False, True, False, True, False, True, False, True, False]
+2024-11-17 18:46:15 INFO     filtered mask: [0 2 4 6 8]
+2024-11-17 18:48:55 INFO     --------
+2024-11-17 18:48:55 INFO     in filter
+2024-11-17 18:48:56 INFO     np1: [0 1 2 3 4 5 6 7 8 9]
+2024-11-17 18:48:56 INFO     filtered mask: [ True False  True False  True False  True False  True False]
+2024-11-17 18:48:56 INFO     filtered mask: [0 2 4 6 8]

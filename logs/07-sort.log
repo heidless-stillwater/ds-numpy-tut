@@ -43,3 +43,101 @@
 2024-11-17 11:01:45 INFO     arr.shape: (4,)
 2024-11-17 11:01:45 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
 2024-11-17 11:01:45 INFO     arr.shape: (4,)
+2024-11-17 17:38:18 INFO     --------
+2024-11-17 17:38:18 INFO     in sort
+2024-11-17 17:38:18 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:38:18 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:43:35 INFO     --------
+2024-11-17 17:43:36 INFO     in sort
+2024-11-17 17:43:36 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:43:36 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:43:36 INFO     np3: [ True False False  True]
+2024-11-17 17:43:36 INFO     sorted_3: [False False  True  True]
+2024-11-17 17:43:51 INFO     --------
+2024-11-17 17:43:51 INFO     in sort
+2024-11-17 17:43:51 INFO     np1: [5 2 7 4 8 3 5 6 8 7 2]
+2024-11-17 17:43:51 INFO     sorted_1: [2 2 3 4 5 5 6 7 7 8 8]
+2024-11-17 17:43:51 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:43:51 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:43:51 INFO     np3: [ True False False  True]
+2024-11-17 17:43:51 INFO     sorted_3: [False False  True  True]
+2024-11-17 17:47:38 INFO     --------
+2024-11-17 17:47:38 INFO     in sort
+2024-11-17 17:47:38 INFO     np1: [5 2 7 4 8 3 5 6 8 7 2]
+2024-11-17 17:47:38 INFO     sorted_1: [2 2 3 4 5 5 6 7 7 8 8]
+2024-11-17 17:47:38 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:47:38 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:47:38 INFO     np3: [ True False False  True]
+2024-11-17 17:47:38 INFO     sorted_3: [False False  True  True]
+2024-11-17 17:47:51 INFO     --------
+2024-11-17 17:47:51 INFO     in sort
+2024-11-17 17:47:51 INFO     np1: [5 2 7 4 8 3 5 6 8 7 2]
+2024-11-17 17:47:51 INFO     sorted_1: [2 2 3 4 5 5 6 7 7 8 8]
+2024-11-17 17:47:51 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:47:51 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:47:51 INFO     np3: [ True False False  True]
+2024-11-17 17:47:51 INFO     sorted_3: [False False  True  True]
+2024-11-17 17:47:51 INFO     np4: [[6 7 1 9]
+ [8 5 3 7]]
+2024-11-17 17:49:05 INFO     --------
+2024-11-17 17:49:05 INFO     in sort
+2024-11-17 17:49:05 INFO     np1: [5 2 7 4 8 3 5 6 8 7 2]
+2024-11-17 17:49:05 INFO     sorted_1: [2 2 3 4 5 5 6 7 7 8 8]
+2024-11-17 17:49:05 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:49:05 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:49:05 INFO     np3: [ True False False  True]
+2024-11-17 17:49:05 INFO     sorted_3: [False False  True  True]
+2024-11-17 17:49:05 INFO     np4: [[6 7 1 9]
+ [8 5 3 7]]
+2024-11-17 17:49:05 INFO     sorted_4: [False False  True  True]
+2024-11-17 17:49:25 INFO     --------
+2024-11-17 17:49:25 INFO     in sort
+2024-11-17 17:49:25 INFO     np1: [5 2 7 4 8 3 5 6 8 7 2]
+2024-11-17 17:49:25 INFO     sorted_1: [2 2 3 4 5 5 6 7 7 8 8]
+2024-11-17 17:49:25 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:49:25 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:49:25 INFO     np3: [ True False False  True]
+2024-11-17 17:49:25 INFO     sorted_3: [False False  True  True]
+2024-11-17 17:49:25 INFO     np4: [[6 7 1 9]
+ [8 5 3 7]]
+2024-11-17 17:49:25 INFO     sorted_4: [[1 6 7 9]
+ [3 5 7 8]]
+2024-11-17 17:52:44 INFO     --------
+2024-11-17 17:52:44 INFO     in sort
+2024-11-17 17:52:44 INFO     np1: [5 2 7 4 8 3 5 6 8 7 2]
+2024-11-17 17:52:44 INFO     sorted_1: [2 2 3 4 5 5 6 7 7 8 8]
+2024-11-17 17:52:44 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:52:44 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:52:44 INFO     np3: [ True False False  True]
+2024-11-17 17:52:44 INFO     sorted_3: [False False  True  True]
+2024-11-17 17:52:44 INFO     np4: [[6 7 1 9]
+ [8 5 3 7]]
+2024-11-17 17:52:44 INFO     sorted_4: [[1 6 7 9]
+ [3 5 7 8]]
+2024-11-17 17:52:44 INFO     flatten_0: [8 5 3 7]
+2024-11-17 17:57:26 INFO     --------
+2024-11-17 17:57:26 INFO     in sort
+2024-11-17 17:57:26 INFO     np1: [5 2 7 4 8 3 5 6 8 7 2]
+2024-11-17 17:57:26 INFO     sorted_1: [2 2 3 4 5 5 6 7 7 8 8]
+2024-11-17 17:57:26 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 17:57:26 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 17:57:26 INFO     np3: [ True False False  True]
+2024-11-17 17:57:26 INFO     sorted_3: [False False  True  True]
+2024-11-17 17:57:26 INFO     np4: [[6 7 1 9]
+ [8 5 3 7]]
+2024-11-17 17:57:26 INFO     sorted_4: [[1 6 7 9]
+ [3 5 7 8]]
+2024-11-17 17:57:26 INFO     flatten_0: [6 7 1 9 8 5 3 7]
+2024-11-17 18:01:21 INFO     --------
+2024-11-17 18:01:21 INFO     in sort
+2024-11-17 18:01:21 INFO     np1: [5 2 7 4 8 3 5 6 8 7 2]
+2024-11-17 18:01:21 INFO     sorted_1: [2 2 3 4 5 5 6 7 7 8 8]
+2024-11-17 18:01:21 INFO     np2: ['cesar' 'hadrian' 'crassus' 'brute']
+2024-11-17 18:01:21 INFO     sorted_2: ['brute' 'cesar' 'crassus' 'hadrian']
+2024-11-17 18:01:21 INFO     np3: [ True False False  True]
+2024-11-17 18:01:21 INFO     sorted_3: [False False  True  True]
+2024-11-17 18:01:21 INFO     np4: [[6 7 1 9]
+ [8 5 3 7]]
+2024-11-17 18:01:21 INFO     sorted_4: [[1 6 7 9]
+ [3 5 7 8]]
+2024-11-17 18:01:21 INFO     flatten_0: [6 7 1 9 8 5 3 7]
